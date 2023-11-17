@@ -14,7 +14,7 @@ int main(void)
 
 	pr_arr(array, n);
 	printf("\n");
-	radix_sort(array, n);
+	ra_so(array, n);
 	printf("\n");
 	pr_arr(array, n);
 	return (0);

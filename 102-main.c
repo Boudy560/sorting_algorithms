@@ -14,7 +14,7 @@ int main(void)
 
 	pr_arr(array, n);
 	printf("\n");
-	counting_sort(array, n);
+	con_so(array, n);
 	printf("\n");
 	pr_arr(array, n);
 	return (0);

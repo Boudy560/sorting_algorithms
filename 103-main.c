@@ -14,7 +14,7 @@ int main(void)
 
 	pr_arr(array, n);
 	printf("\n");
-	merge_sort(array, n);
+	mer_so(array, n);
 	printf("\n");
 	pr_arr(array, n);
 	return (0);

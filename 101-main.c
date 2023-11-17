@@ -47,10 +47,10 @@ int main(void)
 	list = create_listint(array, n);
 	if (!list)
 		return (1);
-	print_list(list);
+	pri_li(list);
 	printf("\n");
-	cocktail_sort_list(&list);
+	coc_so_li(&list);
 	printf("\n");
-	print_list(list);
+	pri_li(list);
 	return (0);
 }

@@ -14,7 +14,7 @@ int main(void)
 
 	pr_arr(array, n);
 	printf("\n");
-	shell_sort(array, n);
+	she_so(array, n);
 	printf("\n");
 	pr_arr(array, n);
 	return (0);
